@@ -1,4 +1,4 @@
-# mosquitto_mqtt_client
+# Mosquitto MQTT Client
 a simple web client implemntation of eclipse paho mqtt library for 
 mosquitto broker configured using mosquittoconf.conf file 
 use following command to start mosquitto 
